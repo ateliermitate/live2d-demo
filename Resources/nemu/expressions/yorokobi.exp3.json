@@ -1,0 +1,30 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamBrowLAngle",
+			"Value": -0.139,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "uruuru",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamCheek",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

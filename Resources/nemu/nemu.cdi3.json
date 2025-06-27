@@ -1,0 +1,295 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "jitome_l",
+			"GroupId": "",
+			"Name": "ジト目左"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "jitome_r2",
+			"GroupId": "",
+			"Name": "ジト目右"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "mimi",
+			"GroupId": "",
+			"Name": "耳"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "眉　角度"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "眉　変形"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "眉　上下"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamSilence",
+			"GroupId": "",
+			"Name": "silence"
+		},
+		{
+			"Id": "ParamA",
+			"GroupId": "",
+			"Name": "あ"
+		},
+		{
+			"Id": "ParamI",
+			"GroupId": "",
+			"Name": "い"
+		},
+		{
+			"Id": "ParamU",
+			"GroupId": "",
+			"Name": "う"
+		},
+		{
+			"Id": "ParamE",
+			"GroupId": "",
+			"Name": "え"
+		},
+		{
+			"Id": "ParamO",
+			"GroupId": "",
+			"Name": "お"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "服揺れ"
+		},
+		{
+			"Id": "namida",
+			"GroupId": "",
+			"Name": "涙"
+		},
+		{
+			"Id": "ase",
+			"GroupId": "",
+			"Name": "汗"
+		},
+		{
+			"Id": "aozame",
+			"GroupId": "",
+			"Name": "青ざめ"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "照れ"
+		},
+		{
+			"Id": "shippo",
+			"GroupId": "",
+			"Name": "しっぽ先揺れ"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part25",
+			"Name": "イラス685.psd（対応無し）"
+		},
+		{
+			"Id": "Part23",
+			"Name": "イラス5968ト8.psd（対応無し）"
+		},
+		{
+			"Id": "Part27",
+			"Name": "イラス5459685.psd（対応無し）"
+		},
+		{
+			"Id": "Part24",
+			"Name": "イラス5459685.psd（対応無し）"
+		},
+		{
+			"Id": "Part21",
+			"Name": "イラス5459685.psd（対応無し）"
+		},
+		{
+			"Id": "Part17",
+			"Name": "イラス68596ト45698.psd"
+		},
+		{
+			"Id": "Part11",
+			"Name": "イラス6856ト8.psd"
+		},
+		{
+			"Id": "Part10",
+			"Name": "イラス6856ト8.psd"
+		},
+		{
+			"Id": "Part8",
+			"Name": "イラス68ト85.psd（対応無し）"
+		},
+		{
+			"Id": "Part9",
+			"Name": "イラス68ト8.psd（対応無し）"
+		},
+		{
+			"Id": "Part",
+			"Name": "フォルダー 3"
+		},
+		{
+			"Id": "Part4",
+			"Name": "フォルダー 4"
+		},
+		{
+			"Id": "Part26",
+			"Name": "フォルダー 4"
+		},
+		{
+			"Id": "Part20",
+			"Name": "フォルダー 3"
+		},
+		{
+			"Id": "Part18",
+			"Name": "フォルダー 3"
+		},
+		{
+			"Id": "Part12",
+			"Name": "フォルダー 3"
+		},
+		{
+			"Id": "Part16",
+			"Name": "フォルダー 4"
+		},
+		{
+			"Id": "Part5",
+			"Name": "フォルダー 3"
+		},
+		{
+			"Id": "Part6",
+			"Name": "左目"
+		},
+		{
+			"Id": "Part3",
+			"Name": "右目"
+		},
+		{
+			"Id": "Part2",
+			"Name": "フォルダー 2"
+		},
+		{
+			"Id": "Part22",
+			"Name": "フォルダー 7"
+		},
+		{
+			"Id": "Part19",
+			"Name": "フォルダー 7"
+		},
+		{
+			"Id": "Part13",
+			"Name": "フォルダー 6"
+		},
+		{
+			"Id": "Part14",
+			"Name": "フォルダー 7"
+		},
+		{
+			"Id": "Part15",
+			"Name": "フォルダー 5"
+		},
+		{
+			"Id": "Part7",
+			"Name": "フォルダー 1"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}
